@@ -1,0 +1,119 @@
+body{
+    background-color:#E5E5E5;
+}
+
+.header
+{
+    position: absolute;
+    left: 24.93%;
+    right: 21.18%;
+    top: 7.81%;
+    bottom: 83.98%;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 27px;
+    margin-bottom:250px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.496657px;
+    color:#000000;
+}
+
+.box
+{
+    position: absolute;
+    left: 5.49%;
+    right: 5.49%;
+    top: 16.89%;
+    bottom: 41.89%;
+    display:flex;
+    background: #714A4A;
+    border-radius: 53px;
+}
+
+.happy
+{
+    position: absolute;
+    left: 0px;
+    right: 0.1px;
+    top: 0px;
+    bottom: -0.14px;
+    float:left;
+    margin-right:40px;
+    margin:40px 1100px 40px 40px;
+
+    background: #FFFFFF;
+    border-radius: 9.03012px;
+}
+
+.happy h1
+{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 27px;
+    display: flex;
+    padding-left:25px;
+    padding-top:10px;
+    letter-spacing: 0.496657px;
+    color: #263238;
+}
+
+.happy h2
+{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15.8027px;
+    line-height: 35px;
+    display: flex;
+    padding-top:50px;
+    padding-left:29px;
+    letter-spacing: 0.282191px;
+    color: #607D8B;
+}
+
+.happy p
+{
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.0602px;
+    line-height: 27px;
+    color: #855CF8;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.496657px; 
+    padding:8px 0px 0px 340px;
+}
+
+.sad
+{
+    position: absolute;
+    left: 500px;
+    right: 10dpx;
+    top: 0px;
+    bottom: -0.14px;
+
+
+
+    background: #FFFFFF;
+    border-radius: 9.03012px;
+}
+
+
